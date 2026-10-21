@@ -18,7 +18,6 @@ Hey there my name is Lucas<br>    🧑🏻‍🎓 I'm currently a Computer Syste
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
