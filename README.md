@@ -1,3 +1,6 @@
+# ☄️ About Me:
+Hey there my name is Lucas<br>    🧑🏻‍🎓 I'm currently a Computer Systems Technology Student from Saskatchewan Polytechnic that is in my second year<br>    📕 I'm current personal project I am working on is a database with all the comics I have in my collection since I am a huge comic book nerd.<br>    🖥️ I am also working on a project named Slidr that incorporates AI to allow care givers of children to see if a product is safe or not as well as some recommended products.<br>
+
 # 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -50,3 +53,15 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=lmcculloch2007&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=lmcculloch2007&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lmcculloch2007&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lmcculloch2007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=lmcculloch2007&icon=8&color=0)](https://visitcount.itsvg.in)
+
