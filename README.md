@@ -1,5 +1,7 @@
 # ☄️ About Me:
-Hey there my name is Lucas<br>    🧑🏻‍🎓 I'm currently a Computer Systems Technology Student from Saskatchewan Polytechnic that<br>    📕 I'm current personal project I am working on is a database with all the comics I have in my collection since I am a huge comic book nerd.<br>    🖥️ I am also working on a project named Slidr that incorporates AI to allow care givers of children to see if a product is safe or not as well as some recommended products.<br>
+Hey there my name is Lucas<br>    🧑🏻‍🎓 I'm currently a Computer Systems Technology Student from Saskatchewan Polytechnic that<br>  
+📕 I'm current personal project I am working on is a database with all the comics I have in my collection since I love reading comics.<br>  
+🖥️ I am also working on a project named Slidr that incorporates AI to allow care givers of children to see if a product is safe or not as well as some recommended products.<br>
 
 # 💻 Tech Stack
 
