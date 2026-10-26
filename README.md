@@ -1,7 +1,14 @@
-# ☄️ About Me:
-Hey there my name is Lucas<br>    🧑🏻‍🎓 I'm currently a Computer Systems Technology Student from Saskatchewan Polytechnic<br>  
-📕 I'm current personal project I am working on is a database with all the comics I have in my collection since I love reading comics.<br>  
-🖥️ I am also working on a project named Slidr that incorporates AI to allow care givers of children to see if a product is safe or not as well as some recommended products.<br>
+
+#About me ☄️
+Hi, my name is Lucas! I'm currently studying Computer Systems Technology at Saskatchewan Polytechnic, where I'm developing my skills in software development and other technologies.<br>
+
+📕 I'm currently creating a personal comic book database to track my collection and showcase it to others in a more unique way.<br>
+
+🖥️ I'm also working on a project called **Slidr** with [kyleyee-dev](https://github.com/kyleyee-dev) and [Runboy07](https://github.com/Runboy07). This project integrates AI to help caregivers easily check whether a product is safe for children and explore alternative product recommendations. <br>
+
+🎮 Some of my interests include learning different programming languages, reading comic books (mostly DC), and playing video games like Ghost of Yōtei, Skyrim, and Elden Ring. I also enjoy watching anime like One Piece and movies like Star Wars: Revenge of the Sith.<br>
+
+🌱 I'm currently learning Rust while continuing to develop my skills in machine learning.<br>
 
 # 💻 Tech Stack
 
