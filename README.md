@@ -1,5 +1,5 @@
 
-#About me ☄️
+About me ☄️
 Hi, my name is Lucas! I'm currently studying Computer Systems Technology at Saskatchewan Polytechnic, where I'm developing my skills in software development and other technologies.<br>
 
 📕 I'm currently creating a personal comic book database to track my collection and showcase it to others in a more unique way.<br>
