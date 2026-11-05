@@ -54,8 +54,7 @@ I'm currently learning Rust while continuing to develop my skills in machine lea
 #  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=lmcculloch2007&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=lmcculloch2007&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lmcculloch2007&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=lmcculloch2007&theme=midnight-purple&hide_border=true&layout=compact&langs_count=20)
 ---
 [![](https://komarev.com/ghpvc/?username=lmcculloch2007&icon=8&color=0)](https://visitcount.itsvg.in)
 
