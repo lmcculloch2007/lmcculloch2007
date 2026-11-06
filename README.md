@@ -51,10 +51,6 @@ I'm currently learning Rust while continuing to develop my skills in machine lea
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-#  GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lmcculloch2007&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=lmcculloch2007&theme=midnight-purple&hide_border=true)<br/>
-![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=lmcculloch2007&theme=midnight-purple&hide_border=true&layout=compact&langs_count=20)
----
-[![](https://komarev.com/ghpvc/?username=lmcculloch2007&icon=8&color=0)](https://visitcount.itsvg.in)
+</br>
+
 
