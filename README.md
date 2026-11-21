@@ -54,3 +54,13 @@ I'm currently learning Rust while continuing to develop my skills in machine lea
 </br>
 
 
+<h2 align="center">GitHub Statistics</h2>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lmcculloch2007&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=00BFFF&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmcculloch2007&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=lmcculloch2007&background=0D1117&ring=58A6FF&fire=00BFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" />
+</div>
+
+
